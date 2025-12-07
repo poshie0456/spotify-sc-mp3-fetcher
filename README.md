@@ -24,7 +24,6 @@ By using this software, you agree to comply with local copyright laws.
 1. **Clone the repository**
 ```bash
 git clone [this repo link]
-cd spotify-soundcloud-downloader
 ````
 
 2. **Install dependencies**
